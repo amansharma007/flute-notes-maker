@@ -24,9 +24,9 @@
         <form>
           <div class="form-group">
             <input id="sargam-input" class="form-control" placeholder="Enter the Sargam....">
-            <small class="form-text text-muted">The entries should be as S,R,G,M,P,D,N</small>
+            <small class="form-text text-muted">The entries should be as S,R,G,M,P,D,N (in lower or upper case)</small>
           </div>
-          <input id="notes-button" class="btn btn-primary" type="button" value="Generate Notes">
+          <input id="notes-button" class="btn btn-success" type="button" value="Generate Notes">
         </form>
       </div>
       </div>
@@ -35,11 +35,11 @@
       <hr>
       <div class="form-inline">
         <h1>Notes</h1>
-        <input id="download" class="btn btn-primary" type="button" value="Open As Image">
+        <input id="download" class="btn btn-success" type="button" value="Open As Image">
       </div>
       <br>
       <div id="notes-content" class="row">
-        
+          
       </div>
     </div>
     <!--CSS-->
@@ -68,6 +68,10 @@
         padding: 10px 20px;
         margin: 10px 0px;
         height: 160px;
+      }
+      .note{
+        margin-top: 5px;
+        display: block;
       }
       #download{
         margin-left: auto;
