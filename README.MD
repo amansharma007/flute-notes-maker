@@ -1,6 +1,8 @@
 # Flute Notes Maker
 
-[![N|Solid](https://amansharma007.github.io/flute-notes-maker/demo.png)](https://amansharma007.github.io/flute-notes-maker/)
+[![N|Solid](https://amansharma007.github.io/flute-notes-maker/assets/demo.png)](https://amansharma007.github.io/flute-notes-maker/)
+
+[![N|Solid](https://amansharma007.github.io/flute-notes-maker/assets/main.gif)]()
 
 Flute Notes Maker is a simple static web app using which you can generate flute notes for any sargam. 
 
